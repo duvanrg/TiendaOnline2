@@ -13,3 +13,5 @@ C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\T
 C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 c:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache

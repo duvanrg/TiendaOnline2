@@ -35,3 +35,13 @@ C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\T
 C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\API\obj\Debug\net7.0\API.pdb
 C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\API\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\duvan\Archivos\CampusLand\Programacion\Skills\netcore\ProjectsnetCore\TiendaOnline\API\bin\Debug\net7.0\System.CodeDom.dll
