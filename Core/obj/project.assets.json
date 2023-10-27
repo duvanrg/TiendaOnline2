@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\TiendaOnline\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\TiendaOnline\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\duvan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\TiendaOnline\\Core\\obj\\",
+      "outputPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\duvan\\AppData\\Roaming\\NuGet\\NuGet.Config"

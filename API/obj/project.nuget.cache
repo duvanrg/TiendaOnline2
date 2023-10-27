@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cot+8dCBtUfEecJYiBU7lz+8Aslq39HO4XSApXzlxPzSUjxkt+X5Pxaov2q07TSY3ZNB9TIEDfiqwZl6mXo4BA==",
+  "dgSpecHash": "b0fgRSnZbhRJW9idELRbV1AmD6BgoIbFO1pYGzmfAL0IwS9/Q3rhuzZD/irxjZUZ3RcLrEb/Yx33DaHrUtkjZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\TiendaOnline\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duvan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\duvan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
