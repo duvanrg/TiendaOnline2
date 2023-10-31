@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eJy0n5ymFFBkJAsT6T/2Ud+Cj2oX6eKtAMZxU21y/KXA8UlOqnRTdY5YPQ3s/jshiTnBC57xJ6WqVO07yak9Ww==",
+  "dgSpecHash": "xjSzpe7Ul8s6cFQLtFGyzo2h49ahgkT4/vevz5bRRoY6EHBUEC3naf9JbF0rAB9afyX+l6DYFAxrGzqE/tCl7Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duvan\\.nuget\\packages\\aspnetcoreratelimit\\5.0.0\\aspnetcoreratelimit.5.0.0.nupkg.sha512",
     "C:\\Users\\duvan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\API\\API.csproj": {}
+    "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\API\\API.csproj": {
+    "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\API\\API.csproj",
+        "projectPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\API\\API.csproj",
         "packagesPath": "C:\\Users\\duvan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\API\\obj\\",
+        "outputPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duvan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj": {
+    "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\duvan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\obj\\",
+        "outputPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duvan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -137,14 +137,14 @@
         }
       }
     },
-    "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\duvan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duvan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -159,8 +159,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj"
+              "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj"
               }
             }
           }

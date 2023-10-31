@@ -4,5 +4,7 @@ namespace Core.Entities
     {
         public string NombreProd { get; set; }
         public int IdMarca { get; set; }
+        public ICollection<Inventario> inventarios { get; set; }
+        public Marca marca { get; set; }
     }
 }

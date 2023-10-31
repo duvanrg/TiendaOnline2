@@ -23,6 +23,7 @@ CREATE TABLE ciudad(
 CREATE TABLE tipoPersona(
     id int AUTO_INCREMENT,
     nombre varchar(50),
+    nombre varchar(50),
     CONSTRAINT Pk_idtipoPersona PRIMARY KEY (id)
 );
 

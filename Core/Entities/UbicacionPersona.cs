@@ -15,6 +15,8 @@ namespace Core.Entities
     public string Complemento { get; set; }
     public string IdPersona { get; set; }
     public int IdCiudad { get; set; }
+    public Persona persona { get; set; }
+    public Ciudad ciudad { get; set; }
 }
 
 }
