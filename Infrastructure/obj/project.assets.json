@@ -1041,19 +1041,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\duvan\\.nuget\\packages\\": {}
+    "/home/skylab-112/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "/home/skylab-112/Documents/review/TiendaOnline2/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\duvan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Infrastructure\\obj\\",
+      "projectPath": "/home/skylab-112/Documents/review/TiendaOnline2/Infrastructure/Infrastructure.csproj",
+      "packagesPath": "/home/skylab-112/.nuget/packages/",
+      "outputPath": "/home/skylab-112/Documents/review/TiendaOnline2/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\duvan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/skylab-112/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -1065,8 +1065,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\3 layers\\TiendaOnline\\Core\\Core.csproj"
+            "/home/skylab-112/Documents/review/TiendaOnline2/Core/Core.csproj": {
+              "projectPath": "/home/skylab-112/Documents/review/TiendaOnline2/Core/Core.csproj"
             }
           }
         }
@@ -1118,7 +1118,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
       }
     }
   }

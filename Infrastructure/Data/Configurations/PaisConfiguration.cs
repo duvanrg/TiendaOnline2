@@ -8,9 +8,11 @@ public class PaisConfiguration: IEntityTypeConfiguration<Pais>
     public void Configure(EntityTypeBuilder<Pais> builder)
     {
         builder.ToTable("Pais");
-        builder.HasKey(e => e.id);
-        builder.Property(e => e.id);
+        builder.HasKey(e => e.Id);
+        builder.Property(e => e.Id);
 
-        builder.Property(p=>p.Nombre).IsRequired().HasMaxLength(50);
+        builder.Property(p=>p.Nombre)
+        .IsRequired()
+        .HasMaxLength(50);
     }
 }
